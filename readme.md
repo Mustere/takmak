@@ -11,6 +11,7 @@ Layout
 --
 
 http://www.keyboard-layout-editor.com/#/gists/02badad523ed5f81657f6f451307866d
+https://www.keyboardcad.com/
 
 Components
 --
